@@ -1,28 +1,69 @@
 <p align="center">
-  <img src="https://your-image-url.com" alt="Logo" width="200">
+  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png">
 </p>
-<p align="center">
-  <strong>Stay tuned! Something awesome is coming from Nick.Pitillo.</strong>
-</p>
-<p align="center">
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-About Nick.Pitillo
-Hi there! I'm Nick.Pitillo, a creative individual passionate about [add your passions, skills, or areas of expertise here]. I'm currently working on something exciting and can't wait to share it with you.
-
-What's Coming
-I'm building an innovative project that will [briefly describe the project and its purpose]. With a blend of creativity, cutting-edge technology, and my expertise, I aim to [mention the impact or value the project will provide].
-
-Stay tuned for updates and announcements. I can't wait to unveil this project to the world!
-
-Get in Touch
-For any inquiries or collaborations, feel free to reach out to me via email or connect with me on Twitter.
-
-Make sure to check out my website nickpitillo.com for more information and updates.
 
 <p align="center">
-  <img src="https://github.com/devOften/devOften/raw/master/assets/animation.gif" alt="Animation" width="500">
+  <a href="mailto:nick.pitillo@example.com" target="_blank"><img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://nickpitillo.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://twitter.com/nickpitillo" target="_blank"><img height="25" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://dev.to/nickpitillo" target="_blank"><img height="27" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
-Acknowledgments
-This README is inspired by devOften.
+
+<p align="center">
+  Hi there! I'm <b>Nick Pitillo</b>, a creative mind and the mastermind behind the coming soon page you've stumbled upon. I specialize in delivering unique and eye-catching designs, and I'm excited to bring this project to life.
+  <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nickpitillo&color=blue">
+</p>
+
+<h2 align="center">⚡ Who I Am</h2>
+
+<p align="center">
+  I'm a multi-talented individual with a passion for creativity, technology, and innovation. With my diverse skill set and experience, I excel in various domains, including:
+</p>
+
+<ul align="center">
+  <li><b>Graphic Design</b>: I create stunning visuals and graphics that capture attention and leave a lasting impression.</li>
+  <li><b>Web Development</b>: I have expertise in front-end and back-end development, crafting immersive and interactive online experiences.</li>
+  <li><b>User Experience (UX) Design</b>: I prioritize user satisfaction and create intuitive and delightful experiences for digital products.</li>
+  <li><b>Coming Soon Pages</b>: I specialize in building captivating coming soon pages that build anticipation and engage visitors.</li>
+</ul>
+
+<h2 align="center">🚀 What's Coming Soon</h2>
+
+<p align="center">
+  I'm currently working on an exciting project that will soon be revealed to the world. Stay tuned for the big launch and experience something truly extraordinary. Get ready to be amazed!
+</p>
+
+<h2 align="center">🌟 Why Choose Nick.Pitillo</h2>
+
+<p align="center">
+  By choosing me, you can expect:
+</p>
+
+<ul align="center">
+  <li><b>Uniqueness</b>: I believe in creating designs that stand out from the crowd. Your project will be one-of-a-kind and leave a lasting impression.</li>
+  <li><b>Creativity</b>: I bring a fresh perspective and innovative ideas to every project, ensuring a captivating and engaging experience.</li>
+  <li><b>Quality</b>: I never compromise on the quality of my work. You can trust me to deliver top-notch solutions tailored to your needs.</li>
+  <li><b>Collaboration</b>: I value open communication and collaboration. Together, we'll bring your vision to life and achieve remarkable results.</li>
+</ul>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
+</p>
+
+<h2 align="center">📞 Let's Get in Touch</h2>
+
+<p align="center">
+  Have a project in mind or want to learn more about what I do? Feel free to reach out to me using the contact details below. I'm looking forward to hearing from you!
+</p>
+
+<p align="center">
+  <a href="mailto:nick.pitillo@example.com" target="_blank"><img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://nickpitillo.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://twitter.com/nickpitillo" target="_blank"><img height="25" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://dev.to/nickpitillo" target="_blank"><img height="27" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+</p>
